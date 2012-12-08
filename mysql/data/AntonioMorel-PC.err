@@ -1,0 +1,56 @@
+110509 17:04:35  InnoDB: Started; log sequence number 0 92419
+110509 17:04:36 [Note] Event Scheduler: Loaded 0 events
+110509 17:04:36 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110510  8:31:02  InnoDB: Started; log sequence number 0 92419
+110510  8:31:03 [Note] Event Scheduler: Loaded 0 events
+110510  8:31:03 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110510 11:04:29  InnoDB: Started; log sequence number 0 92419
+110510 11:04:30 [Note] Event Scheduler: Loaded 0 events
+110510 11:04:30 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110510 15:23:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110510 15:23:04  InnoDB: Started; log sequence number 0 92419
+110510 15:23:04 [Note] Event Scheduler: Loaded 0 events
+110510 15:23:04 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110511  9:10:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110511  9:10:57  InnoDB: Started; log sequence number 0 92419
+110511  9:10:58 [Note] Event Scheduler: Loaded 0 events
+110511  9:10:58 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110511 16:12:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110511 16:12:07  InnoDB: Started; log sequence number 0 92419
+110511 16:12:07 [Note] Event Scheduler: Loaded 0 events
+110511 16:12:07 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110512 16:03:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110512 16:03:58  InnoDB: Started; log sequence number 0 92419
+110512 16:03:58 [Note] Event Scheduler: Loaded 0 events
+110512 16:03:58 [Note] D:\project\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.30-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
